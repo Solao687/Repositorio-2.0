@@ -14,7 +14,7 @@
 #cobre {
     width: 200px;
     background-color: black;
-    color: #00FF00;
+    color: #F52727;
     line-height: 2.5;
 }
 #hierro {
@@ -23,11 +23,20 @@
     column-gap: 20px;
     width: 300px;
     background-color: black;
-    color: #00FF00;
+    color: #E4F527;
     padding: 10px;
+}
+#diamante {
+    width: 350px;
+    background-color: green;
+    color: #F52727;
+    padding: 15px;
+    
+    filter: blur(1px); 
 }
 
 
 
 
-
+<H6 id="emeralda"> Prueba numero 4? No se que decir </H6>
+<H7 id="topacio"> Prueba numero 4? Tal vez? </H7>
