@@ -34,3 +34,54 @@
     
     filter: blur(1px); 
 }
+#emeralda {
+    width: 400px;
+    background-color: black;
+    color: #F527E7;
+    padding: 15px;
+
+    animation-name: brillar; 
+    
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes brillar {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.3;
+    }
+}
+#topacio {
+    display: table;
+    border-collapse: collapse; 
+    
+    width: 350px;
+    background-color: A1008C;
+    color: #D9B8D6;
+    border: 2px solid green;
+}
+#carbon {
+    margin: 50px;
+    width: 300px;
+    background-color: #D6ABD4;
+    color: #000000;
+    padding: 10px;
+}
+#lapizlazuli {
+    text-align: center;
+    
+    width: 450px;
+    background-color: #0A00C7;
+    color: #AEABD6;
+    padding: 10px;
+}
+#agata {
+    position: relative;
+    top: 20px;
+    left: 50px;
+    
+    color: #C76D00;
+}
