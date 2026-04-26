@@ -3,3 +3,10 @@
     background-color: black;
     color: #00FF00;
     font-family: monospace;
+#xcz {
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;
+    background-color: black;
+    color: green;
+}
