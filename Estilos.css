@@ -4,8 +4,10 @@ p.xyz {
 }
 
 h1.xyz {
-    color: darkblue;
-    font-size: 40px;
+    width: 50%;
+    background-color: red;
+    color: white;
+}
 }
 
 #Pru {
