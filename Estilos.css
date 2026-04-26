@@ -11,3 +11,23 @@
     background-color: black;
     color: green;
 }
+#cobre {
+    width: 200px;
+    background-color: black;
+    color: #00FF00;
+    line-height: 2.5;
+}
+#hierro {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 20px;
+    width: 300px;
+    background-color: black;
+    color: #00FF00;
+    padding: 10px;
+}
+
+
+
+
+
