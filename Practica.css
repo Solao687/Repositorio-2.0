@@ -1,4 +1,9 @@
-.xyz {
-width: 200px;
-background-color: #136396;
+p.xyz {
+    color: blue;
+    width: 250px;
+}
+
+h1.xyz {
+    color: darkblue;
+    font-size: 40px;
 }
