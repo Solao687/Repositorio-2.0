@@ -85,3 +85,50 @@
     
     color: #C76D00;
 }
+#Pyro {
+    backface-visibility: hidden;
+    
+    
+    transform: rotateY(180deg); 
+    
+    color: #8EF527;
+    width: 300px;
+    padding: 10px;
+}
+#Cryo {
+    overflow-x: auto;
+    
+    width: 150px;
+    white-space: nowrap;
+    
+    background-color: #000780;
+    color: #7DBABA;
+    padding: 10px;
+}
+#Anemo {
+    display: grid;
+    grid-template-columns: 100px auto;
+    
+    width: 400px;
+    background-color: #800000;
+    color: #4F0080;
+    padding: 10px;
+}
+#Geo {
+    flex-basis: 250px;
+    
+    color: #EDFF00;
+    
+}
+#Hydro {
+    
+    background-image: linear-gradient(45deg, #000, #1a1a1a);
+    
+   
+    background-size: 200% 200%; 
+    
+    color: #E100FF;
+    width: 350px;
+    padding: 40px;
+    text-align: center;
+}
