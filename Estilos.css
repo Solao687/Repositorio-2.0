@@ -132,3 +132,47 @@
     padding: 40px;
     text-align: center;
 }
+#Dendro {
+    font-family: 'Courier New', Courier, monospace; /* Aparentemente este texto es invisible.. VEAMOS! */
+    
+    color: #00F2FF;
+    font-size: 300px;
+}
+#Electro {
+    user-select: none;
+    
+    color: #2E2727;
+    background-color: black;
+    padding: 10px;
+    width: 350px;
+}
+#Amarillo {
+    order: 1;
+    
+    background-color: green;
+    color: #FF6EFF;
+    width: 350px;
+    padding: 15px;
+    
+}
+#Azul {
+    border-color: #0002FF;
+    border-style: solid;
+    border-width: 5px;
+    
+    background-color: black;
+    color: #0002FF;
+    width: 380px;
+    padding: 10px;
+}
+#Rojo {
+    transform-style: preserve-3d;
+    
+   
+    transform: rotateY(45deg);
+    
+    background-color: black;
+    color: #00FF00;
+    width: 350px;
+    padding: 20px;
+}
