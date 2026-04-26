@@ -1,17 +1,17 @@
-p.2 {
+.2 {
     display: flex;
     flex-wrap: wrap;
     width: 200px;
     color: blue;
 
-h1.1 {
+.1 {
     width: 50%;
     background-color: red;
     color: white;
 }
 }
 
-#3 {
+.3 {
     width: 200px;
     color: blue; 
 }
