@@ -1,7 +1,8 @@
 p.xyz {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
     color: blue;
-    width: 250px;
-}
 
 h1.xyz {
     width: 50%;
